@@ -1,5 +1,5 @@
 <h1>Python Libraries for Data Science</h1>
-there are some python libraries are widly used for data science:
+There are some python libraries that are widely used in  data science:-
 <li>Numpy</li>
 <li>Pandas</li>
 <li>MatplotLib</li>
